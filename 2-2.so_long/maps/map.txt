@@ -1,0 +1,15 @@
+empty.ber > 빈 파일
+invalid1.ber > 시작점 없음
+invalid2.ber > 수집품 없음
+invalid3.ber > 출구 없음
+invalid4.ber > 수집품 못먹음
+invalid5.ber > 출구 못나감
+invalid6.ber > 10PCE외에 다른 문자가 있음
+invalid7.ber > 직사각형 아님
+invalid8.ber > 벽으로 둘러쌓여 있지 않음
+invalid9.ber > 벽으로 둘러쌓여 있지 않음
+
+map1.ber > 13 * 5 (subject 예시)
+map2.ber > 
+map3.ber > 가장 작은 맵
+map4.ber > 화면에 나오는 가장 큰 맵
