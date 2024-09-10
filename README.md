@@ -30,7 +30,7 @@
 - 유명한 [식사하는 철학자 문제](https://namu.wiki/w/%EC%8B%9D%EC%82%AC%ED%95%98%EB%8A%94%20%EC%B2%A0%ED%95%99%EC%9E%90%20%EB%AC%B8%EC%A0%9C) 해결하기. pthread.h를 사용하여 멀티 쓰레드환경을 만들어 보고, mutex로 decdlock을 해결해보기.
 
 ## 4-1. cub3d
-- 레이캐스팅을 이용하여 1인칭 시점의 미로를 구현하기
+- [레이캐스팅](https://lodev.org/cgtutor/raycasting.html)을 이용하여 1인칭 시점의 미로를 구현하기
 
 ## 4-2. cpp module
 - 첫 C++과제. C++문법과 객체지향개념을 배울 수 있다.
