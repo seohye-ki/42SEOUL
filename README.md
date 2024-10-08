@@ -64,17 +64,17 @@
 - 정적변수를 사용하여 다시 호출하면 그 다음 공백까지가 출력되도록 만든다.
 
 ## 1-2. ft_printf
-- 가변인자와 함수를 사용하여, printf() 직접 구현해보기.
+- [가변인자와 함수](https://ko.wikipedia.org/wiki/Stdarg.h)를 사용하여, printf()를 직접 구현해보기.
 
 ## 1-3. born2beroot
-- virtualbox를 사용하여, 가상머신을 생성하고 CLI환경에서 OS설치, ufw설정, ssh서비스 실행, sudo설정, monitoring.sh작성등 환경을 세팅해보기.
+- virtualbox를 사용하여, 가상머신을 생성하고 CLI환경에서 OS설치, ufw설정, ssh서비스 실행, sudo설정, monitoring.sh작성 등 환경을 세팅해보기.
 
 ## 2-1. pushswap
 - 스택A와 스택B 2개를 가지고 명령어를 최대한 적게 사용하여 입력받은 인자를 정렬하기.
 ![push_swap](https://github.com/user-attachments/assets/b31c0e4b-2a84-4317-8dee-4386bdc0ca6b)
 
 ## 2-2. so_long
-- 첫 그래픽 과제. map의 유효성을 확인하고, mlx라이브러리를 사용하여 간단한 게임 만들기.
+- 첫 그래픽 과제. map의 유효성을 확인하고, mlx라이브러리를 사용하여 간단한 2D게임 만들기.
 ![so_long](https://github.com/user-attachments/assets/4b6a0f31-d3bf-4587-a13a-5c1768037173)
 
 ## 2-3. minitalk
@@ -106,7 +106,7 @@
 ![philo-die](https://github.com/user-attachments/assets/17a8cd98-a3bd-4eb4-b990-9ba597484b5b)
 
 ## 4-1. cub3d
-- [레이캐스팅](https://lodev.org/cgtutor/raycasting.html)을 이용하여 1인칭 시점의 미로를 구현하기
+- [레이캐스팅](https://lodev.org/cgtutor/raycasting.html)을 이용하여 1인칭 시점의 미로를 3D로 구현하기
 ![cub3d](https://github.com/user-attachments/assets/2b2d64b9-a944-4438-978a-eb10f6ea7e91)
 
 ## 4-2. cpp module
