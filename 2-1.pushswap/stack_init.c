@@ -41,6 +41,7 @@ void	fill_stack(char **argv, t_stack *stack)
 void	init_stack(t_stack *stack, char **argv)
 {
 	stack->arr = NULL;
+	stack->top_a = NULL;
 	stack->top_b = NULL;
 	stack->bottom_b = NULL;
 	stack->size_b = 0;

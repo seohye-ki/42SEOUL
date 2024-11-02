@@ -98,9 +98,7 @@ char	**ft_split(char const *s, char c)
 {
 	char	**strs;
 	int		size;
-	int		i;
 
-	i = 0;
 	size = ft_count_word(s, c);
 	if (size == 0)
 	{
